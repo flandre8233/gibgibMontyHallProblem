@@ -1,0 +1,6 @@
+C:\Users\gibgib\Documents\Visual Studio 2017\Projects\MontyHallProblem\MontyHallProblem\bin\Debug\MontyHallProblem.exe.config
+C:\Users\gibgib\Documents\Visual Studio 2017\Projects\MontyHallProblem\MontyHallProblem\bin\Debug\MontyHallProblem.exe
+C:\Users\gibgib\Documents\Visual Studio 2017\Projects\MontyHallProblem\MontyHallProblem\bin\Debug\MontyHallProblem.pdb
+C:\Users\gibgib\Documents\Visual Studio 2017\Projects\MontyHallProblem\MontyHallProblem\obj\Debug\MontyHallProblem.csproj.CoreCompileInputs.cache
+C:\Users\gibgib\Documents\Visual Studio 2017\Projects\MontyHallProblem\MontyHallProblem\obj\Debug\MontyHallProblem.exe
+C:\Users\gibgib\Documents\Visual Studio 2017\Projects\MontyHallProblem\MontyHallProblem\obj\Debug\MontyHallProblem.pdb
